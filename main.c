@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-printf("Udało połączyć się z GITEM");
-
+printf("Wszystkim udało się połączyć z GITEM!!");
 return 0;
 }
