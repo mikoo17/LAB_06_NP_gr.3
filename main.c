@@ -1,5 +1,15 @@
+//napisz funkcję silnia wykorzystując rekurencję 
+
 #include <stdio.h>
-int main(){
-printf("Wszystkim udało się połączyć z GITEM!!");
-return 0;
+#include "funkcje.h"
+
+int main(void) {
+  int n;
+  printf("Podaj liczbę n, której silnię chcesz obliczyć\n");
+  scanf("%d", &n);
+  
+  if(n<0) printf("Podaj liczbę większą równą zero");
+    
+  else printf("Silnia z podanej liczby to %d", silnia(n));
+  return 0;
 }
