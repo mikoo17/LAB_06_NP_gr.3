@@ -5,7 +5,7 @@
 
 int main(void) {
   int n;
-  int m=1;
+  int m=2;
   printf("Podaj liczbę n, której silnię chcesz obliczyć\n");
   scanf("%d", &n);
 
