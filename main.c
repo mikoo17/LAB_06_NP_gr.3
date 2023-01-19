@@ -12,5 +12,9 @@ int main(void) {
   if(n<0) printf("Podaj liczbę większą równą zero"); // sprawdzenie poprawności liczby wpisanej przez użytkownika //
 
   else printf("Silnia z liczby %d  to %d",n,silnia(n)); // wyświetlenie wyniku//
+<<<<<<< HEAD
   return 0;//wywołanie konfliktu//
+=======
+  return 0; //koniec programu
+>>>>>>> 61d4fcf799b987a6e4315e406a829274ff0ac8bf
 }
