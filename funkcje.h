@@ -3,3 +3,4 @@
 #endif
 #include <stdio.h>
 int silnia(int n);
+int petla(int n)
