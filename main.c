@@ -1,4 +1,3 @@
-//napisz funkcję silnia wykorzystując rekurencję
 
 #include <stdio.h>
 #include "funkcje.h"
