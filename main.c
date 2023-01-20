@@ -8,8 +8,8 @@ int main(void) {
   scanf("%d", &n); //pobranie od użytkownika wartości n//
 
   if(n<0) printf("Podaj liczbę większą równą zero"); // sprawdzenie poprawności liczby wpisanej przez użytkownika //
-printf("Silnia z liczby %d  to %d",n,wybor; // wyświetlenie wyniku//
   else wybor(n) // przejscie do funkcji wybierania sposobu obliczania silnii//
+  printf("Silnia z liczby %d  to %d",n,wynik); // wyświetlenie wyniku//
   return 0; //koniec programu
 
 }
